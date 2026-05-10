@@ -1,14 +1,13 @@
 ---
-compatible-with: openclaw
+compatible-with: [openclaw, hermes]
 
 > **Why this exists:** Killing a subagent mid-task often leaves temp files, broken git states, and orphaned processes. This skill teaches graceful cancellation — cleanup first, then exit.
 
 name: cancel
 description: Cancel any active task or mode - intelligent cleanup with state preservation
-version: 1.0.0
+version: 1.0.1
 author: Rook (adapted from oh-my-codex)
 ---
-compatible-with: openclaw
 
 # Cancel Skill for OpenClaw
 
@@ -246,6 +245,5 @@ jobs
 - 1.0.0: Initial implementation based on oh-my-codex cancel skill
 
 ---
-compatible-with: openclaw
 
 If this saved you time: [☕ PayPal.me/nerudek](https://www.paypal.me/nerudek)
