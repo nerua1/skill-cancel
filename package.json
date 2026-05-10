@@ -2,19 +2,19 @@
   "name": "cancel",
   "version": "1.0.0",
   "description": "Cancel subagents gracefully without data loss",
-  "author": "nerua1 <nerudek.vibecoder@gmail.com>",
+  "author": "nerudek <nerudek.vibecoder@gmail.com>",
   "license": "MIT",
   "type": "skill",
   "main": "SKILL.md",
   "keywords": ["openclaw", "skill", "ai-agent"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nerua1/cancel"
+    "url": "https://github.com/nerudek/cancel"
   },
   "bugs": {
-    "url": "https://github.com/nerua1/cancel/issues"
+    "url": "https://github.com/nerudek/cancel/issues"
   },
-  "homepage": "https://github.com/nerua1/cancel#readme",
+  "homepage": "https://github.com/nerudek/cancel#readme",
   "engines": {
     "openclaw": ">=2026.4.0"
   }

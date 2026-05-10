@@ -6,7 +6,7 @@ Cancel any active task or mode - intelligent cleanup with state preservation
 
 ```bash
 # Clone to your OpenClaw skills directory
-git clone https://github.com/nerua1/skill-cancel.git ~/.openclaw/skills/cancel
+git clone https://github.com/nerudek/skill-cancel.git ~/.openclaw/skills/cancel
 
 # Or symlink if you keep skills elsewhere
 ln -s /path/to/skill-cancel ~/.openclaw/skills/cancel
